@@ -1,0 +1,128 @@
+id,category,control_name
+A.5.1.1,Information Security Policies,Policies for information security
+A.5.1.2,Information Security Policies,Review of the policies for information security
+
+A.6.1.1,Organization of Information Security,Information security roles and responsibilities
+A.6.1.2,Organization of Information Security,Segregation of duties
+A.6.1.3,Organization of Information Security,Contact with authorities
+A.6.1.4,Organization of Information Security,Contact with special interest groups
+A.6.1.5,Organization of Information Security,Information security in project management
+A.6.2.1,Mobile Devices,Mobile device policy
+A.6.2.2,Mobile Devices,Teleworking
+
+A.7.1.1,Human Resource Security,Screening
+A.7.1.2,Human Resource Security,Terms and conditions of employment
+A.7.2.1,Human Resource Security,Management responsibilities
+A.7.2.2,Human Resource Security,Information security awareness education and training
+A.7.2.3,Human Resource Security,Disciplinary process
+A.7.3.1,Human Resource Security,Termination or change of employment responsibilities
+
+A.8.1.1,Asset Management,Inventory of assets
+A.8.1.2,Asset Management,Ownership of assets
+A.8.1.3,Asset Management,Acceptable use of assets
+A.8.1.4,Asset Management,Return of assets
+A.8.2.1,Information Classification,Classification of information
+A.8.2.2,Information Classification,Labelling of information
+A.8.2.3,Information Classification,Handling of assets
+A.8.3.1,Media Handling,Management of removable media
+A.8.3.2,Media Handling,Disposal of media
+A.8.3.3,Media Handling,Physical media transfer
+
+A.9.1.1,Access Control,Business requirements of access control
+A.9.1.2,Access Control,Access to networks and network services
+A.9.2.1,User Access Management,User registration and de-registration
+A.9.2.2,User Access Management,User access provisioning
+A.9.2.3,User Access Management,Management of privileged access rights
+A.9.2.4,User Access Management,Management of secret authentication information of users
+A.9.2.5,User Access Management,Review of user access rights
+A.9.2.6,User Access Management,Removal or adjustment of access rights
+A.9.3.1,User Responsibilities,Use of secret authentication information
+A.9.4.1,System and Application Access Control,Information access restriction
+A.9.4.2,System and Application Access Control,Secure log-on procedures
+A.9.4.3,System and Application Access Control,Password management system
+A.9.4.4,System and Application Access Control,Use of privileged utility programs
+A.9.4.5,System and Application Access Control,Access control to program source code
+
+A.10.1.1,Cryptography,Policy on the use of cryptographic controls
+A.10.1.2,Cryptography,Key management
+
+A.11.1.1,Physical and Environmental Security,Physical security perimeter
+A.11.1.2,Physical and Environmental Security,Physical entry controls
+A.11.1.3,Physical and Environmental Security,Securing offices rooms and facilities
+A.11.1.4,Physical and Environmental Security,Protecting against external and environmental threats
+A.11.1.5,Physical and Environmental Security,Working in secure areas
+A.11.1.6,Physical and Environmental Security,Delivery and loading areas
+A.11.2.1,Equipment Security,Equipment siting and protection
+A.11.2.2,Equipment Security,Supporting utilities
+A.11.2.3,Equipment Security,Cabling security
+A.11.2.4,Equipment Security,Equipment maintenance
+A.11.2.5,Equipment Security,Removal of assets
+A.11.2.6,Equipment Security,Security of equipment and assets off-premises
+A.11.2.7,Equipment Security,Secure disposal or re-use of equipment
+A.11.2.8,Equipment Security,Unattended user equipment
+A.11.2.9,Equipment Security,Clear desk and clear screen policy
+
+A.12.1.1,Operations Security,Documented operating procedures
+A.12.1.2,Operations Security,Change management
+A.12.1.3,Operations Security,Capacity management
+A.12.1.4,Operations Security,Separation of development test and operational environments
+A.12.2.1,Protection from Malware,Controls against malware
+A.12.3.1,Backup,Information backup
+A.12.4.1,Logging and Monitoring,Event logging
+A.12.4.2,Logging and Monitoring,Protection of log information
+A.12.4.3,Logging and Monitoring,Administrator and operator logs
+A.12.4.4,Logging and Monitoring,Clock synchronization
+A.12.5.1,Control of Operational Software,Installation of software on operational systems
+A.12.6.1,Technical Vulnerability Management,Management of technical vulnerabilities
+A.12.6.2,Technical Vulnerability Management,Restrictions on software installation
+A.12.7.1,Information Systems Audit Considerations,Information systems audit controls
+
+A.13.1.1,Communications Security,Network controls
+A.13.1.2,Communications Security,Security of network services
+A.13.1.3,Communications Security,Segregation in networks
+A.13.2.1,Information Transfer,Information transfer policies and procedures
+A.13.2.2,Information Transfer,Agreements on information transfer
+A.13.2.3,Information Transfer,Electronic messaging
+A.13.2.4,Information Transfer,Confidentiality or non-disclosure agreements
+
+A.14.1.1,System Acquisition Development and Maintenance,Information security requirements analysis and specification
+A.14.1.2,System Acquisition Development and Maintenance,Securing application services on public networks
+A.14.1.3,System Acquisition Development and Maintenance,Protecting application services transactions
+A.14.2.1,System Acquisition Development and Maintenance,Secure development policy
+A.14.2.2,System Acquisition Development and Maintenance,System change control procedures
+A.14.2.3,System Acquisition Development and Maintenance,Technical review of applications after operating platform changes
+A.14.2.4,System Acquisition Development and Maintenance,Restrictions on changes to software packages
+A.14.2.5,System Acquisition Development and Maintenance,Secure system engineering principles
+A.14.2.6,System Acquisition Development and Maintenance,Secure development environment
+A.14.2.7,System Acquisition Development and Maintenance,Outsourced development
+A.14.2.8,System Acquisition Development and Maintenance,System security testing
+A.14.2.9,System Acquisition Development and Maintenance,System acceptance testing
+A.14.3.1,System Acquisition Development and Maintenance,Protection of test data
+
+A.15.1.1,Supplier Relationships,Information security policy for supplier relationships
+A.15.1.2,Supplier Relationships,Addressing security within supplier agreements
+A.15.1.3,Supplier Relationships,Information and communication technology supply chain
+A.15.2.1,Supplier Relationships,Monitoring and review of supplier services
+A.15.2.2,Supplier Relationships,Managing changes to supplier services
+
+A.16.1.1,Information Security Incident Management,Responsibilities and procedures
+A.16.1.2,Information Security Incident Management,Reporting information security events
+A.16.1.3,Information Security Incident Management,Reporting information security weaknesses
+A.16.1.4,Information Security Incident Management,Assessment of and decision on information security events
+A.16.1.5,Information Security Incident Management,Response to information security incidents
+A.16.1.6,Information Security Incident Management,Learning from information security incidents
+A.16.1.7,Information Security Incident Management,Collection of evidence
+
+A.17.1.1,Information Security Aspects of Business Continuity,Planning information security continuity
+A.17.1.2,Information Security Aspects of Business Continuity,Implementing information security continuity
+A.17.1.3,Information Security Aspects of Business Continuity,Verify review and evaluate information security continuity
+A.17.2.1,Redundancies,Availability of information processing facilities
+
+A.18.1.1,Compliance,Identification of applicable legislation and contractual requirements
+A.18.1.2,Compliance,Intellectual property rights
+A.18.1.3,Compliance,Protection of records
+A.18.1.4,Compliance,Privacy and protection of personally identifiable information
+A.18.1.5,Compliance,Regulation of cryptographic controls
+A.18.2.1,Information Security Reviews,Independent review of information security
+A.18.2.2,Information Security Reviews,Compliance with security policies and standards
+A.18.2.3,Information Security Reviews,Technical compliance review
