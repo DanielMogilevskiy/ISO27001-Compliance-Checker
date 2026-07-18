@@ -116,6 +116,7 @@ Your browser will open automatically at http://localhost:8501.
 
 ```bash
 streamlit run src/app.py
+```
 
 ---
 
