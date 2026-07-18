@@ -72,6 +72,33 @@ python -m src.main --data my_controls.csv --output report.txt
 
 *The report shows overall score, per‑category breakdown, and a list of controls that are not fully implemented.*
 
+## 🌐 Web Interface (Streamlit)
+
+**Try it live:** 👉 [ISO 27001 Compliance Checker](https://твоя-ссылка.streamlit.app)
+
+In addition to the command-line tool, this project includes an **interactive web interface** built with [Streamlit](https://streamlit.io).  
+It provides a more user-friendly way to assess compliance with visual feedback and real-time progress tracking.
+
+### Features
+
+- 🎯 **Interactive controls** — answer each control with a single click
+- 📊 **Real-time progress bar** — see how many controls you've completed
+- 📈 **Visual compliance dashboard** — category breakdown with interactive charts
+- ⚡ **Instant results** — overall score, implemented vs. partial vs. not implemented
+- 🔄 **Start over** — easily re-run the assessment
+
+### How to Run Locally
+
+Make sure you're in the project root and your virtual environment is activated:
+
+```bash
+streamlit run src/app.py
+
+```markdown
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://твоя-ссылка.streamlit.app)
+
+![Streamlit Report](screenshots/SiteStats.png)
+
 ---
 
 ## 🧩 Customising the Checklist
