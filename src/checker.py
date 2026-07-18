@@ -81,28 +81,33 @@ def generate_report(controls: List[Control], scores: Dict) -> str:
     from rich.table import Table
     from rich.console import Console
     from rich import box
+    
     console = Console()
-    report = []
     
-    console.print("\n[bold magenta]📊 ISO 27001 Compliance Assessment Report[/]\n", file=report)
-    console.print(f"Total controls assessed: {scores['total_controls']}", file=report)
-    console.print(f"Applicable controls: {scores['applicable_controls']}", file=report)
-    console.print(f"Implemented: {scores['implemented']}", file=report)
-    console.print(f"Partially implemented: {scores['partial']}", file=report)
-    console.print(f"Not implemented: {scores['not_implemented']}", file=report)
-    console.print(f"[bold]Overall compliance: {scores['overall_pct']:.1f}%[/]\n", file=report)
+    # Собираем отчёт в список строк
+    lines = []
     
-    table = Table(title="Category Scores", box=box.ROUNDED)
-    table.add_column("Category", style="cyan")
-    table.add_column("Compliance %", justify="right", style="green")
+    # Заголовок
+    lines.append("\n📊 ISO 27001 Compliance Assessment Report\n")
+    lines.append(f"Total controls assessed: {scores['total_controls']}")
+    lines.append(f"Applicable controls: {scores['applicable_controls']}")
+    lines.append(f"Implemented: {scores['implemented']}")
+    lines.append(f"Partially implemented: {scores['partial']}")
+    lines.append(f"Not implemented: {scores['not_implemented']}")
+    lines.append(f"Overall compliance: {scores['overall_pct']:.1f}%\n")
+    
+    # Категории
+    lines.append("Category Scores:")
+    lines.append("-" * 40)
     for cat, score in scores['category_scores'].items():
-        table.add_row(cat, f"{score:.1f}%")
-    console.print(table, file=report)
+        lines.append(f"  {cat}: {score:.1f}%")
+    lines.append("-" * 40 + "\n")
     
+    # Контролы, требующие внимания
     missing = [c for c in controls if c.status in (ComplianceStatus.NOT_IMPLEMENTED, ComplianceStatus.PARTIAL)]
     if missing:
-        console.print("\n[bold red]⛔ Controls needing attention:[/]", file=report)
+        lines.append("⛔ Controls needing attention:")
         for c in missing:
-            console.print(f"  • {c.id} – {c.name} ({c.status.value})", file=report)
+            lines.append(f"  • {c.id} – {c.name} ({c.status.value})")
     
-    return "".join(report)
+    return "\n".join(lines)

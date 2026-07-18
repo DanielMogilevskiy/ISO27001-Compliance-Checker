@@ -6,8 +6,6 @@
 A **command-line tool** that helps organisations assess their readiness against ISO 27001 Annex A controls.  
 It interactively collects implementation status for each control, computes a weighted compliance score, and generates a clear, colourful summary – perfect for internal audits or gap analysis.
 
-![Sample Output](screenshots/sample_output.png)
-
 ---
 
 ## 🔍 What It Solves
@@ -70,7 +68,7 @@ python -m src.main --data my_controls.csv --output report.txt
 
 ## 📊 Example Output
 
-![Sample Report](screenshots/sample_output.png)
+![Sample Report](screenshots/Final Stats.png)
 
 *The report shows overall score, per‑category breakdown, and a list of controls that are not fully implemented.*
 
