@@ -105,18 +105,14 @@ It provides a more user-friendly way to assess compliance with visual feedback a
 ### How to Run Locally
 
 Make sure you're in the project root and your virtual environment is activated:
-
+```bash
+streamlit run src/app.py
+```
 Your browser will open automatically at http://localhost:8501.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://твоя-ссылка.streamlit.app)
 
 ![Streamlit Report](screenshots/web_interface.png)
-
----
-
-```bash
-streamlit run src/app.py
-```
 
 ---
 
