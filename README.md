@@ -74,22 +74,7 @@ python -m src.main --data my_controls.csv --output report.txt
 
 ## 🌐 Web Interface (Streamlit)
 
-**Try it live:** 👉 [ISO 27001 Compliance Checker](https://твоя-ссылка.streamlit.app)
-
-In addition to the command-line tool, this project includes an **interactive web interface** built with [Streamlit](https://streamlit.io).  
-It provides a more user-friendly way to assess compliance with visual feedback and real-time progress tracking.
-
-### Features
-
-- 🎯 **Interactive controls** — answer each control with a single click
-- 📊 **Real-time progress bar** — see how many controls you've completed
-- 📈 **Visual compliance dashboard** — category breakdown with interactive charts
-- ⚡ **Instant results** — overall score, implemented vs. partial vs. not implemented
-- 🔄 **Start over** — easily re-run the assessment
-
-## 🌐 Web Interface (Streamlit)
-
-**Try it live:** 👉 [Launch ISO 27001 Compliance Checker](https://твоя-ссылка.streamlit.app)
+**Try it live:** 👉 [Launch ISO 27001 Compliance Checker](https://danielmogilevskiy-iso27001-compliance-checker.streamlit.app/)
 
 In addition to the command-line tool, this project includes an **interactive web interface** built with [Streamlit](https://streamlit.io).  
 It provides a more user-friendly way to assess compliance with visual feedback and real-time progress tracking.
@@ -110,7 +95,7 @@ streamlit run src/app.py
 ```
 Your browser will open automatically at http://localhost:8501.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://твоя-ссылка.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://danielmogilevskiy-iso27001-compliance-checker.streamlit.app/)
 
 ![Streamlit Report](screenshots/web_interface.png)
 
