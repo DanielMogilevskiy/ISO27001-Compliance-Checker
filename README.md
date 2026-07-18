@@ -68,7 +68,7 @@ python -m src.main --data my_controls.csv --output report.txt
 
 ## 📊 Example Output
 
-![Sample Report](screenshots/Final Stats.png)
+![Sample Report](screenshots/Stats.png)
 
 *The report shows overall score, per‑category breakdown, and a list of controls that are not fully implemented.*
 
