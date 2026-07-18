@@ -1,128 +1,129 @@
 id,category,control_name,description
-A.5.1.1,Information Security Policies,Policies for information security
-A.5.1.2,Information Security Policies,Review of the policies for information security
+A.5.1.1,Information Security Policies,Policies for information security,"A set of policies for information security shall be defined, approved by management, published and communicated to employees and relevant external parties."
+A.5.1.2,Information Security Policies,Review of the policies for information security,"The policies for information security shall be reviewed at planned intervals or if significant changes occur."
 
-A.6.1.1,Organization of Information Security,Information security roles and responsibilities
-A.6.1.2,Organization of Information Security,Segregation of duties
-A.6.1.3,Organization of Information Security,Contact with authorities
-A.6.1.4,Organization of Information Security,Contact with special interest groups
-A.6.1.5,Organization of Information Security,Information security in project management
-A.6.2.1,Mobile Devices,Mobile device policy
-A.6.2.2,Mobile Devices,Teleworking
+A.6.1.1,Organization of Information Security,Information security roles and responsibilities,"All information security responsibilities shall be defined and allocated."
+A.6.1.2,Organization of Information Security,Segregation of duties,"Conflicting duties and areas of responsibility shall be segregated to reduce opportunities for unauthorized or unintentional modification or misuse of the organization's assets."
+A.6.1.3,Organization of Information Security,Contact with authorities,"Appropriate contacts with relevant authorities shall be maintained."
+A.6.1.4,Organization of Information Security,Contact with special interest groups,"Appropriate contacts with special interest groups or other specialist security forums and professional associations shall be maintained."
+A.6.1.5,Organization of Information Security,Information security in project management,"Information security shall be addressed in project management regardless of the type of project."
+A.6.2.1,Mobile Devices,Mobile device policy,"A policy and supporting security measures shall be adopted to manage the risks introduced by the use of mobile devices."
+A.6.2.2,Mobile Devices,Teleworking,"A policy and supporting security measures shall be implemented to protect information accessed, processed or stored at teleworking sites."
 
-A.7.1.1,Human Resource Security,Screening
-A.7.1.2,Human Resource Security,Terms and conditions of employment
-A.7.2.1,Human Resource Security,Management responsibilities
-A.7.2.2,Human Resource Security,Information security awareness education and training
-A.7.2.3,Human Resource Security,Disciplinary process
-A.7.3.1,Human Resource Security,Termination or change of employment responsibilities
+A.7.1.1,Human Resource Security,Screening,"Background verification checks on all candidates for employment shall be carried out in accordance with relevant laws, regulations and ethics."
+A.7.1.2,Human Resource Security,Terms and conditions of employment,"The contractual agreements with employees and contractors shall state their and the organization's responsibilities for information security."
+A.7.2.1,Human Resource Security,Management responsibilities,"Management shall require all employees and contractors to apply information security in accordance with the established policies and procedures."
+A.7.2.2,Human Resource Security,Information security awareness education and training,"All employees and relevant contractors shall receive appropriate awareness education and regular updates in organizational policies and procedures."
+A.7.2.3,Human Resource Security,Disciplinary process,"There shall be a formal and communicated disciplinary process for employees who commit an information security breach."
+A.7.3.1,Human Resource Security,Termination or change of employment responsibilities,"Information security responsibilities and duties that remain valid after termination or change of employment shall be defined, communicated and enforced."
 
-A.8.1.1,Asset Management,Inventory of assets
-A.8.1.2,Asset Management,Ownership of assets
-A.8.1.3,Asset Management,Acceptable use of assets
-A.8.1.4,Asset Management,Return of assets
-A.8.2.1,Information Classification,Classification of information
-A.8.2.2,Information Classification,Labelling of information
-A.8.2.3,Information Classification,Handling of assets
-A.8.3.1,Media Handling,Management of removable media
-A.8.3.2,Media Handling,Disposal of media
-A.8.3.3,Media Handling,Physical media transfer
+A.8.1.1,Asset Management,Inventory of assets,"Assets associated with information and information processing facilities shall be identified and an inventory maintained."
+A.8.1.2,Asset Management,Ownership of assets,"Assets maintained in the inventory shall be owned."
+A.8.1.3,Asset Management,Acceptable use of assets,"Rules for the acceptable use of information and assets associated with information processing facilities shall be identified, documented and implemented."
+A.8.1.4,Asset Management,Return of assets,"All employees and external party users shall return all organizational assets in their possession upon termination of employment, contract or agreement."
+A.8.2.1,Information Classification,Classification of information,"Information shall be classified in terms of legal requirements, value, criticality and sensitivity."
+A.8.2.2,Information Classification,Labelling of information,"An appropriate set of procedures for information labelling shall be developed and implemented."
+A.8.2.3,Information Classification,Handling of assets,"Procedures for handling assets shall be developed and implemented."
+A.8.3.1,Media Handling,Management of removable media,"Procedures shall be implemented for the management of removable media."
+A.8.3.2,Media Handling,Disposal of media,"Media shall be disposed of securely when no longer required."
+A.8.3.3,Media Handling,Physical media transfer,"Media containing information shall be protected against unauthorized access, misuse or corruption during transportation."
 
-A.9.1.1,Access Control,Business requirements of access control
-A.9.1.2,Access Control,Access to networks and network services
-A.9.2.1,User Access Management,User registration and de-registration
-A.9.2.2,User Access Management,User access provisioning
-A.9.2.3,User Access Management,Management of privileged access rights
-A.9.2.4,User Access Management,Management of secret authentication information of users
-A.9.2.5,User Access Management,Review of user access rights
-A.9.2.6,User Access Management,Removal or adjustment of access rights
-A.9.3.1,User Responsibilities,Use of secret authentication information
-A.9.4.1,System and Application Access Control,Information access restriction
-A.9.4.2,System and Application Access Control,Secure log-on procedures
-A.9.4.3,System and Application Access Control,Password management system
-A.9.4.4,System and Application Access Control,Use of privileged utility programs
-A.9.4.5,System and Application Access Control,Access control to program source code
+A.9.1.1,Access Control,Business requirements of access control,"An access control policy shall be established, documented and reviewed based on business and information security requirements."
+A.9.1.2,Access Control,Access to networks and network services,"Users shall only be provided with access to network services they have been specifically authorized to use."
+A.9.2.1,User Access Management,User registration and de-registration,"A formal user registration and de-registration process shall be implemented."
+A.9.2.2,User Access Management,User access provisioning,"A formal user access provisioning process shall be implemented."
+A.9.2.3,User Access Management,Management of privileged access rights,"The allocation and use of privileged access rights shall be restricted and controlled."
+A.9.2.4,User Access Management,Management of secret authentication information of users,"The allocation of secret authentication information shall be controlled through a formal management process."
+A.9.2.5,User Access Management,Review of user access rights,"Asset owners shall review users' access rights at regular intervals."
+A.9.2.6,User Access Management,Removal or adjustment of access rights,"Access rights of employees and contractors shall be removed upon termination and adjusted upon change."
+A.9.3.1,User Responsibilities,Use of secret authentication information,"Users shall be required to follow organizational practices in the use of secret authentication information."
+A.9.4.1,System and Application Access Control,Information access restriction,"Access to information and application system functions shall be restricted in accordance with the access control policy."
+A.9.4.2,System and Application Access Control,Secure log-on procedures,"Where required by the access control policy, access shall be controlled by secure log-on procedures."
+A.9.4.3,System and Application Access Control,Password management system,"Password management systems shall be interactive and ensure quality passwords."
+A.9.4.4,System and Application Access Control,Use of privileged utility programs,"The use of utility programs capable of overriding system and application controls shall be restricted and tightly controlled."
+A.9.4.5,System and Application Access Control,Access control to program source code,"Access to program source code shall be restricted."
 
-A.10.1.1,Cryptography,Policy on the use of cryptographic controls
-A.10.1.2,Cryptography,Key management
+A.10.1.1,Cryptography,Policy on the use of cryptographic controls,"A policy on the use of cryptographic controls for protection of information shall be developed and implemented."
+A.10.1.2,Cryptography,Key management,"A policy on the use, protection and lifetime of cryptographic keys shall be developed and implemented through their whole lifecycle."
 
-A.11.1.1,Physical and Environmental Security,Physical security perimeter
-A.11.1.2,Physical and Environmental Security,Physical entry controls
-A.11.1.3,Physical and Environmental Security,Securing offices rooms and facilities
-A.11.1.4,Physical and Environmental Security,Protecting against external and environmental threats
-A.11.1.5,Physical and Environmental Security,Working in secure areas
-A.11.1.6,Physical and Environmental Security,Delivery and loading areas
-A.11.2.1,Equipment Security,Equipment siting and protection
-A.11.2.2,Equipment Security,Supporting utilities
-A.11.2.3,Equipment Security,Cabling security
-A.11.2.4,Equipment Security,Equipment maintenance
-A.11.2.5,Equipment Security,Removal of assets
-A.11.2.6,Equipment Security,Security of equipment and assets off-premises
-A.11.2.7,Equipment Security,Secure disposal or re-use of equipment
-A.11.2.8,Equipment Security,Unattended user equipment
-A.11.2.9,Equipment Security,Clear desk and clear screen policy
+A.11.1.1,Physical and Environmental Security,Physical security perimeter,"Security perimeters shall be defined and used to protect areas that contain either sensitive or critical information and information processing facilities."
+A.11.1.2,Physical and Environmental Security,Physical entry controls,"Secure areas shall be protected by appropriate entry controls to ensure that only authorized personnel are allowed access."
+A.11.1.3,Physical and Environmental Security,Securing offices rooms and facilities,"Physical security for offices, rooms and facilities shall be designed and applied."
+A.11.1.4,Physical and Environmental Security,Protecting against external and environmental threats,"Physical protection against natural disasters, malicious attack or accidents shall be designed and applied."
+A.11.1.5,Physical and Environmental Security,Working in secure areas,"Procedures for working in secure areas shall be designed and applied."
+A.11.1.6,Physical and Environmental Security,Delivery and loading areas,"Access points such as delivery and loading areas shall be controlled and isolated from information processing facilities."
+A.11.2.1,Equipment Security,Equipment siting and protection,"Equipment shall be sited and protected to reduce the risks from environmental threats and hazards and opportunities for unauthorized access."
+A.11.2.2,Equipment Security,Supporting utilities,"Equipment shall be protected from power failures and other disruptions caused by failures in supporting utilities."
+A.11.2.3,Equipment Security,Cabling security,"Power and telecommunications cabling carrying data or supporting information services shall be protected."
+A.11.2.4,Equipment Security,Equipment maintenance,"Equipment shall be correctly maintained to ensure its continued availability and integrity."
+A.11.2.5,Equipment Security,Removal of assets,"Equipment, information or software shall not be taken off-site without prior authorization."
+A.11.2.6,Equipment Security,Security of equipment and assets off-premises,"Security shall be applied to off-site assets taking into account the different risks of working outside the organization's premises."
+A.11.2.7,Equipment Security,Secure disposal or re-use of equipment,"All items of equipment containing storage media shall be verified to ensure that sensitive data and licensed software have been removed before disposal or re-use."
+A.11.2.8,Equipment Security,Unattended user equipment,"Users shall ensure that unattended equipment has appropriate protection."
+A.11.2.9,Equipment Security,Clear desk and clear screen policy,"A clear desk policy for papers and removable storage media and a clear screen policy for information processing facilities shall be adopted."
 
-A.12.1.1,Operations Security,Documented operating procedures
-A.12.1.2,Operations Security,Change management
-A.12.1.3,Operations Security,Capacity management
-A.12.1.4,Operations Security,Separation of development test and operational environments
-A.12.2.1,Protection from Malware,Controls against malware
-A.12.3.1,Backup,Information backup
-A.12.4.1,Logging and Monitoring,Event logging
-A.12.4.2,Logging and Monitoring,Protection of log information
-A.12.4.3,Logging and Monitoring,Administrator and operator logs
-A.12.4.4,Logging and Monitoring,Clock synchronization
-A.12.5.1,Control of Operational Software,Installation of software on operational systems
-A.12.6.1,Technical Vulnerability Management,Management of technical vulnerabilities
-A.12.6.2,Technical Vulnerability Management,Restrictions on software installation
-A.12.7.1,Information Systems Audit Considerations,Information systems audit controls
+A.12.1.1,Operations Security,Documented operating procedures,"Operating procedures shall be documented and made available to all users who need them."
+A.12.1.2,Operations Security,Change management,"Changes to the organization, business processes, information processing facilities and systems that affect information security shall be controlled."
+A.12.1.3,Operations Security,Capacity management,"The use of resources shall be monitored, tuned and projections made of future capacity requirements."
+A.12.1.4,Operations Security,Separation of development test and operational environments,"Development, testing and operational environments shall be separated."
+A.12.2.1,Protection from Malware,Controls against malware,"Detection, prevention and recovery controls to protect against malware shall be implemented."
+A.12.3.1,Backup,Information backup,"Backup copies of information, software and system images shall be taken and tested regularly."
+A.12.4.1,Logging and Monitoring,Event logging,"Event logs recording user activities, exceptions, faults and information security events shall be produced, kept and regularly reviewed."
+A.12.4.2,Logging and Monitoring,Protection of log information,"Logging facilities and log information shall be protected against tampering and unauthorized access."
+A.12.4.3,Logging and Monitoring,Administrator and operator logs,"System administrator and system operator activities shall be logged and the logs protected and regularly reviewed."
+A.12.4.4,Logging and Monitoring,Clock synchronization,"The clocks of all relevant information processing systems shall be synchronized to a single reference time source."
+A.12.5.1,Control of Operational Software,Installation of software on operational systems,"Procedures shall be implemented to control the installation of software on operational systems."
+A.12.6.1,Technical Vulnerability Management,Management of technical vulnerabilities,"Information about technical vulnerabilities shall be obtained in a timely fashion, evaluated and appropriate measures taken."
+A.12.6.2,Technical Vulnerability Management,Restrictions on software installation,"Rules governing the installation of software by users shall be established and implemented."
+A.12.7.1,Information Systems Audit Considerations,Information systems audit controls,"Audit requirements and activities involving verification of operational systems shall be carefully planned and agreed."
 
-A.13.1.1,Communications Security,Network controls
-A.13.1.2,Communications Security,Security of network services
-A.13.1.3,Communications Security,Segregation in networks
-A.13.2.1,Information Transfer,Information transfer policies and procedures
-A.13.2.2,Information Transfer,Agreements on information transfer
-A.13.2.3,Information Transfer,Electronic messaging
-A.13.2.4,Information Transfer,Confidentiality or non-disclosure agreements
+A.13.1.1,Communications Security,Network controls,"Networks shall be managed and controlled to protect information in systems and applications."
+A.13.1.2,Communications Security,Security of network services,"Security mechanisms, service levels and management requirements for all network services shall be identified and included in network service agreements."
+A.13.1.3,Communications Security,Segregation in networks,"Groups of information services, users and information systems shall be segregated on networks."
+A.13.2.1,Information Transfer,Information transfer policies and procedures,"Formal transfer policies, procedures and controls shall be in place to protect the transfer of information through the use of all types of communication facilities."
+A.13.2.2,Information Transfer,Agreements on information transfer,"Agreements shall address the secure transfer of business information between the organization and external parties."
+A.13.2.3,Information Transfer,Electronic messaging,"Information involved in electronic messaging shall be appropriately protected."
+A.13.2.4,Information Transfer,Confidentiality or non-disclosure agreements,"Requirements for confidentiality or non-disclosure agreements reflecting the organization's needs shall be identified, documented, regularly reviewed and signed."
 
-A.14.1.1,System Acquisition Development and Maintenance,Information security requirements analysis and specification
-A.14.1.2,System Acquisition Development and Maintenance,Securing application services on public networks
-A.14.1.3,System Acquisition Development and Maintenance,Protecting application services transactions
-A.14.2.1,System Acquisition Development and Maintenance,Secure development policy
-A.14.2.2,System Acquisition Development and Maintenance,System change control procedures
-A.14.2.3,System Acquisition Development and Maintenance,Technical review of applications after operating platform changes
-A.14.2.4,System Acquisition Development and Maintenance,Restrictions on changes to software packages
-A.14.2.5,System Acquisition Development and Maintenance,Secure system engineering principles
-A.14.2.6,System Acquisition Development and Maintenance,Secure development environment
-A.14.2.7,System Acquisition Development and Maintenance,Outsourced development
-A.14.2.8,System Acquisition Development and Maintenance,System security testing
-A.14.2.9,System Acquisition Development and Maintenance,System acceptance testing
-A.14.3.1,System Acquisition Development and Maintenance,Protection of test data
+A.14.1.1,System Acquisition Development and Maintenance,Information security requirements analysis and specification,"Information security related requirements shall be included in the requirements for new information systems or enhancements to existing information systems."
+A.14.1.2,System Acquisition Development and Maintenance,Securing application services on public networks,"Information involved in application services passing over public networks shall be protected."
+A.14.1.3,System Acquisition Development and Maintenance,Protecting application services transactions,"Information involved in application service transactions shall be protected to prevent incomplete transmission, mis-routing, unauthorized message alteration, unauthorized disclosure, duplication or replay."
+A.14.2.1,System Acquisition Development and Maintenance,Secure development policy,"Rules for the development of software and systems shall be established and applied."
+A.14.2.2,System Acquisition Development and Maintenance,System change control procedures,"Changes to systems within the development lifecycle shall be controlled by formal change control procedures."
+A.14.2.3,System Acquisition Development and Maintenance,Technical review of applications after operating platform changes,"Applications shall be reviewed and tested when operating platforms are changed."
+A.14.2.4,System Acquisition Development and Maintenance,Restrictions on changes to software packages,"Modifications to software packages shall be discouraged, limited to necessary changes and all changes shall be strictly controlled."
+A.14.2.5,System Acquisition Development and Maintenance,Secure system engineering principles,"Principles for engineering secure systems shall be established, documented, maintained and applied."
+A.14.2.6,System Acquisition Development and Maintenance,Secure development environment,"Organizations shall establish and appropriately protect secure development environments."
+A.14.2.7,System Acquisition Development and Maintenance,Outsourced development,"The organization shall supervise and monitor the activity of outsourced system development."
+A.14.2.8,System Acquisition Development and Maintenance,System security testing,"Testing of security functionality shall be carried out during development."
+A.14.2.9,System Acquisition Development and Maintenance,System acceptance testing,"Acceptance testing programs and related criteria shall be established for new information systems, upgrades and new versions."
+A.14.3.1,System Acquisition Development and Maintenance,Protection of test data,"Test data shall be selected carefully, protected and controlled."
 
-A.15.1.1,Supplier Relationships,Information security policy for supplier relationships
-A.15.1.2,Supplier Relationships,Addressing security within supplier agreements
-A.15.1.3,Supplier Relationships,Information and communication technology supply chain
-A.15.2.1,Supplier Relationships,Monitoring and review of supplier services
-A.15.2.2,Supplier Relationships,Managing changes to supplier services
+A.15.1.1,Supplier Relationships,Information security policy for supplier relationships,"Information security requirements for mitigating the risks associated with supplier access to the organization's assets shall be agreed with the supplier and documented."
+A.15.1.2,Supplier Relationships,Addressing security within supplier agreements,"All relevant information security requirements shall be established and agreed with each supplier."
+A.15.1.3,Supplier Relationships,Information and communication technology supply chain,"Agreements with suppliers shall include requirements to address the information security risks associated with ICT services and the supply chain."
+A.15.2.1,Supplier Relationships,Monitoring and review of supplier services,"Organizations shall regularly monitor, review and audit supplier service delivery."
+A.15.2.2,Supplier Relationships,Managing changes to supplier services,"Changes to the provision of supplier services shall be managed while maintaining an appropriate level of information security."
 
-A.16.1.1,Information Security Incident Management,Responsibilities and procedures
-A.16.1.2,Information Security Incident Management,Reporting information security events
-A.16.1.3,Information Security Incident Management,Reporting information security weaknesses
-A.16.1.4,Information Security Incident Management,Assessment of and decision on information security events
-A.16.1.5,Information Security Incident Management,Response to information security incidents
-A.16.1.6,Information Security Incident Management,Learning from information security incidents
-A.16.1.7,Information Security Incident Management,Collection of evidence
+A.16.1.1,Information Security Incident Management,Responsibilities and procedures,"Management responsibilities and procedures shall be established to ensure a quick, effective and orderly response to information security incidents."
+A.16.1.2,Information Security Incident Management,Reporting information security events,"Information security events shall be reported through appropriate management channels as quickly as possible."
+A.16.1.3,Information Security Incident Management,Reporting information security weaknesses,"Employees and contractors using the organization's information systems shall report any observed or suspected information security weaknesses."
+A.16.1.4,Information Security Incident Management,Assessment of and decision on information security events,"Information security events shall be assessed and it shall be decided if they are to be classified as information security incidents."
+A.16.1.5,Information Security Incident Management,Response to information security incidents,"Information security incidents shall be responded to in accordance with documented procedures."
+A.16.1.6,Information Security Incident Management,Learning from information security incidents,"Knowledge gained from analysing and resolving information security incidents shall be used to reduce the likelihood or impact of future incidents."
+A.16.1.7,Information Security Incident Management,Collection of evidence,"The organization shall define and apply procedures for the identification, collection, acquisition and preservation of information that can serve as evidence."
 
-A.17.1.1,Information Security Aspects of Business Continuity,Planning information security continuity
-A.17.1.2,Information Security Aspects of Business Continuity,Implementing information security continuity
-A.17.1.3,Information Security Aspects of Business Continuity,Verify review and evaluate information security continuity
-A.17.2.1,Redundancies,Availability of information processing facilities
+A.17.1.1,Information Security Aspects of Business Continuity,Planning information security continuity,"The organization shall determine its requirements for information security and the continuity of information security management in adverse situations, e.g. during a crisis or disaster."
+A.17.1.2,Information Security Aspects of Business Continuity,Implementing information security continuity,"The organization shall establish, document, implement and maintain processes, procedures and controls to ensure the required level of continuity for information security during disruptive situations."
+A.17.1.3,Information Security Aspects of Business Continuity,Verify review and evaluate information security continuity,"The organization shall verify the established and implemented information security continuity controls at regular intervals to ensure they remain valid and effective during adverse situations."
+A.17.2.1,Redundancies,Availability of information processing facilities,"Information processing facilities shall be implemented with sufficient redundancy to meet availability requirements."
 
-A.18.1.1,Compliance,Identification of applicable legislation and contractual requirements
-A.18.1.2,Compliance,Intellectual property rights
-A.18.1.3,Compliance,Protection of records
-A.18.1.4,Compliance,Privacy and protection of personally identifiable information
-A.18.1.5,Compliance,Regulation of cryptographic controls
-A.18.2.1,Information Security Reviews,Independent review of information security
-A.18.2.2,Information Security Reviews,Compliance with security policies and standards
-A.18.2.3,Information Security Reviews,Technical compliance review
+A.18.1.1,Compliance,Identification of applicable legislation and contractual requirements,"All relevant legislative, statutory, regulatory, contractual requirements and the organization's approach to meeting these requirements shall be explicitly identified, documented and kept up to date."
+A.18.1.2,Compliance,Intellectual property rights,"Appropriate procedures shall be implemented to ensure compliance with legislative, regulatory and contractual requirements related to intellectual property rights and the use of proprietary software products."
+A.18.1.3,Compliance,Protection of records,"Records shall be protected from loss, destruction, falsification, unauthorized access and unauthorized release in accordance with legislative, regulatory, contractual and business requirements."
+A.18.1.4,Compliance,Privacy and protection of personally identifiable information,"Privacy and protection of personally identifiable information shall be ensured in accordance with applicable laws, regulations and contractual requirements."
+A.18.1.5,Compliance,Regulation of cryptographic controls,"Cryptographic controls shall be used in compliance with all relevant agreements, legislation and regulations."
+
+A.18.2.1,Information Security Reviews,Independent review of information security,"The organization's approach to managing information security and its implementation, including people, processes and technologies, shall be reviewed independently at planned intervals or when significant changes occur."
+A.18.2.2,Information Security Reviews,Compliance with security policies and standards,"Managers shall regularly review the compliance of information processing and procedures within their area of responsibility with the appropriate security policies, standards and other security requirements."
+A.18.2.3,Information Security Reviews,Technical compliance review,"Information systems shall be regularly reviewed for compliance with the organization's information security policies and standards."
