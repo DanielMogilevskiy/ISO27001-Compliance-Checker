@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup, find_packages  # type: ignore
 
 setup(
     name="iso27001-compliance-checker",
@@ -10,7 +10,7 @@ setup(
     entry_points={
         "console_scripts": [
             "iso27001-check = src.main:main",
-        ]
+        ],
     },
     python_requires=">=3.8",
 )
