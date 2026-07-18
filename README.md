@@ -108,7 +108,6 @@ Make sure you're in the project root and your virtual environment is activated:
 
 Your browser will open automatically at http://localhost:8501.
 
-```markdown
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://твоя-ссылка.streamlit.app)
 
 ![Streamlit Report](screenshots/web_interface.png)
